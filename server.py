@@ -4,7 +4,7 @@ import time
 
 #connects to mongodb using pymongo.
 def connect_to_database():
-    connection_string = "mongodb+srv://frankydiaz1999:Sergioarmando1@lab7.oebhi.mongodb.net/?retryWrites=true&w=majority&appName=Lab7"
+    connection_string = ""
     client = MongoClient(connection_string)
     db = client["test"]
     return db
