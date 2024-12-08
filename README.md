@@ -109,7 +109,7 @@ To select a query, enter the corresponding number (1, 2, or 3) when prompted by 
      exit
      ```
    - Description:
-     This input willterminate and close the client program and closes the socket being used.
+     This input will terminate and close the client program and closes the socket being used.
 
 ---
 
